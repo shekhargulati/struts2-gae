@@ -1,0 +1,2 @@
+An Extension of Struts 2 framework for Google App Engine.
+Please refer to <a href='http://whyjava.wordpress.com/2009/10/04/file-upload-on-google-app-engine-using-struts2/'>file upload on google app engine using struts</a> for details on how to use this framework.
